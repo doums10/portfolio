@@ -1,1 +1,45 @@
 /* Your custom css code goes here */
+.probootstrap-section {
+  padding: 9em 0 2em;
+}
+
+.carousel-inner>.item>a>img,
+.carousel-inner>.item>img,
+.img-responsive,
+.thumbnail a>img,
+.thumbnail>img {
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+#section2 {
+  padding: 0;
+}
+
+.probootstrap-form.probootstrap-form-box {
+  margin-top:212px;
+}
+
+body {
+  background: #f7f7f7;
+}
+
+.probootstrap-card-text p {
+  margin-bottom: 3px;
+}
+
+
+.probootstrap-main-nav li a,
+.probootstrap-logo,
+.probootstrap-right-nav li a {
+  color: black;
+}
+
+.probootstrap-main-nav li a:hover,
+.probootstrap-mobile-menu-active .probootstrap-main-nav li a:hover,
+.probootstrap-mobile-menu-active.show .probootstrap-main-nav li a {
+  color: #40dab2;
+}
+.probootstrap-logo:active, .probootstrap-logo:focus, .probootstrap-logo:hover{
+	color:#22eaaa;
+}
